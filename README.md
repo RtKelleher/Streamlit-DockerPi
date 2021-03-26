@@ -11,7 +11,7 @@ Was having a hard time deploying Streamlit to the Pi4, decided to give docker a 
 * Profit 
 
 ### Future updates could include:
-* ~~Multi-Stageing to reduce overall size~~ 700ish mb down from 1.5gb
+* ~~Multi-Stageing to reduce overall size~~
 * /Wheel/ to reduce rebuild time
 * ~~.Venv.. Maybe.. Because.. Pi~~ Via poetry and multi-stage
 
